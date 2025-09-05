@@ -1,0 +1,10 @@
+git status -> prints the status of the Git Repository
+git init
+git config --global user.name ""
+git config --global user.email ""
+git config user.name ""
+git config user.email ""
+git add
+git comiit -m ""
+git log
+Git diff <filename>
