@@ -8,3 +8,20 @@ git add
 git comiit -m ""
 git log
 Git diff <filename>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHANGES FOR BRANCH2
