@@ -10,9 +10,7 @@ git log
 Git diff <filename>
 
 
-
-
-
+Changes made for privatebranch1
 
 
 
@@ -25,3 +23,6 @@ Git diff <filename>
 
 
 CHANGES FOR BRANCH2
+=======
+
+
